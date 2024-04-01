@@ -1,15 +1,15 @@
-> # NitroSniperGo
+> # NitroSniperGo FAKE
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/vedza/NitroSniperGo/total?style=flat)](https://github.com/vedza/NitroSniperGo/releases)
-[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Vedza/NitroSniperGo&title=Views)](https://github.com/Vedza/NitroSniperGo)  
-[![GitHub release](https://img.shields.io/github/release/Vedzaa/NitroSniperGo.svg?style=flat)](https://github.com/Vedzaa/NitroSniperGo/releases)
-[![Build Status](https://travis-ci.com/Vedza/NitroSniperGo.svg?branch=master)](https://travis-ci.com/Vedza/NitroSniperGo)
+[![GitHub All Releases](https://img.shields.io/github/downloads/Bobby-is-the-worst/NitroSniperGo/total?style=flat)](https://github.com/Bobby-is-the-worst/NitroSniperGo/releases)
+[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Bobby-is-the-worst/NitroSniperGo&title=Views)](https://github.com/Bobby-is-the-worst/NitroSniperGo)  
+[![GitHub release](https://img.shields.io/github/release/Bobby-is-the-worsta/NitroSniperGo.svg?style=flat)](https://github.com/Bobby-is-the-worsta/NitroSniperGo/releases)
+[![Build Status](https://travis-ci.com/Bobby-is-the-worst/NitroSniperGo.svg?branch=master)](https://travis-ci.com/Bobby-is-the-worst/NitroSniperGo)
 
-<a href="https://www.buymeacoffee.com/Vedza" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="32" width="140"></a>
+<a href="https://www.buymeacoffee.com/Bobby-is-the-worst" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="32" width="140"></a>
 
-### New easy deploy with heroku [below](https://github.com/Vedza/NitroSniperGo#usage) 
-<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vedza/NitroSniperGo/tree/heroku)
-<a href="https://repl.it/github/Vedza/NitroSniperGo" target="_blank"><img src="https://repl.it/badge/github/Vedza/NitroSniperGo" alt="Deploy on Repl.it" height="32" width="160"></a>-->
+### New easy deploy with heroku [below](https://github.com/Bobby-is-the-worst/NitroSniperGo#usage) 
+<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bobby-is-the-worst/NitroSniperGo/tree/heroku)
+<a href="https://repl.it/github/Bobby-is-the-worst/NitroSniperGo" target="_blank"><img src="https://repl.it/badge/github/Bobby-is-the-worst/NitroSniperGo" alt="Deploy on Repl.it" height="32" width="160"></a>-->
 
 Discord Nitro sniper and Giveaway joiner in Go.
 
@@ -107,19 +107,19 @@ You have multiple choices to run the sniper :
     * Resources -> enable sniper
     * See logs in More -> View logs
 
-- Download the latest [release](https://github.com/Vedza/NitroSniperGo/releases)
+- Download the latest [release](https://github.com/Bobby-is-the-worst/NitroSniperGo/releases)
 
 - Using Docker :
 
   - Linux & Powershell
      ``` sh
-     docker run --rm --name NitroSniperGo -v ${pwd}/settings.json:/app/settings.json ghcr.io/vedza/nitrosnipergo:master
+     docker run --rm --name NitroSniperGo -v ${pwd}/settings.json:/app/settings.json ghcr.io/Bobby-is-the-worst/nitrosnipergo:master
      # or 
-     docker run --rm --name NitroSniperGo -v $PWD/settings.json:/app/settings.json ghcr.io/vedza/nitrosnipergo:master
+     docker run --rm --name NitroSniperGo -v $PWD/settings.json:/app/settings.json ghcr.io/Bobby-is-the-worst/nitrosnipergo:master
      ```
   - Windows Command Line 
      ``` sh
-     docker run --rm --name NitroSniperGo -v %cd%/settings.json:/app/settings.json ghcr.io/vedza/nitrosnipergo:master
+     docker run --rm --name NitroSniperGo -v %cd%/settings.json:/app/settings.json ghcr.io/Bobby-is-the-worst/nitrosnipergo:master
      ```
 - Compile it yourself
   ``` sh
@@ -128,7 +128,7 @@ You have multiple choices to run the sniper :
   ./NitroSniperGo
   ```
 
- <!-- - [Deploy on Repl.it](https://repl.it/github/Vedza/NitroSniperGo) -->
+ <!-- - [Deploy on Repl.it](https://repl.it/github/Bobby-is-the-worst/NitroSniperGo) -->
 
 #### How to obtain your token
 
