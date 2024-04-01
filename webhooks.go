@@ -51,7 +51,7 @@ func webhookNitro(code string, user *discordgo.User, guild string, channel strin
 			"name": "Nitro Sniped !"
 		  },
 		  "footer": {
-			"text": "NitroSniperGo made by Vedza"
+			"text": "NitroSniperGo made by Bobby-is-the-worst"
 		  },
 		  "thumbnail": {
 			"url": "` + image + `"
@@ -116,7 +116,7 @@ func webhookGiveaway(prize string, user *discordgo.User, guild string, channel s
 			"name": "Giveaway Won !"
 		  },
 		  "footer": {
-			"text": "NitroSniperGo made by Vedza"
+			"text": "NitroSniperGo made by Bobby-is-the-worst"
 		  },
 		  "thumbnail": {
         	"url": "https://media.hearthpwn.com/attachments/96/923/tadapopper.png"
@@ -181,7 +181,7 @@ func webhookPrivnote(content string, user *discordgo.User, guild string, channel
 			"name": "Privnote Sniped !"
 		  },
 		  "footer": {
-			"text": "NitroSniperGo made by Vedza"
+			"text": "NitroSniperGo made by Bobby-is-the-worst"
 		  },
 		  "thumbnail": {
         	"url": "https://images.emojiterra.com/twitter/512px/1f4cb.png"
